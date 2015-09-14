@@ -1,2 +1,3 @@
 Hello, World!
-\nBye, World\nfrom mergetool!
+Bye, World
+from mergetool!
